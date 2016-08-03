@@ -34,7 +34,7 @@ Examples in this file use Python2.7.
 
 
 Nested ssh
-~~~~~~~
+-----
 
 To perform nested ssh user need to import SSHTool class from parampy::
 
@@ -58,7 +58,7 @@ calling run method::
     >>> ssht.run(command)
 
 sudoer ssh
-~~~~~~~
+-----
 
 To perform sudoer ssh means if user want to ssh on some host and host is asking password or expecting any key from user,
 user can import sudo_ssh from parampy::
@@ -75,7 +75,7 @@ user can import sudo_ssh from parampy::
     -rwxrwxr-x 1 max max  47861 Jul  7 23:22 defaults.css
 
 Switch ssh
-~~~~~~~
+-----
 
 To perform ssh in switch and execute some commands,
 user can import ssh_switch from parampy::
