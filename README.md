@@ -18,22 +18,6 @@ The main use cases of the library are:
 * Switch ssh.
 
 
-Installation
-------------
-
-::
-
-    pip install parampy
-
-
-Build status
-------------
-
-.. image:: https://drone.io/bitbucket.org/astanin/python-tabulate/status.png
-   :alt: Build status
-   :target: https://drone.io/bitbucket.org/astanin/python-tabulate/latest
-
-
 Usage
 -----
 
