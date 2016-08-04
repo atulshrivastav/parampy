@@ -57,7 +57,7 @@ calling run method::
 
     >>> ssht.run(command)
 
-sudoer ssh
+Sudoer ssh
 -----
 
 To perform sudoer ssh means if user want to ssh on some host and host is asking password or expecting any key from user,
