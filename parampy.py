@@ -154,7 +154,7 @@ class SSHTool():
         via_host = ('10.10.10.10', 22)
     """
 
-    def __init__(self, host, user='nfvadmin', auth='HP1nvent',
+    def __init__(self, host, user='', auth='',
                  via=None, via_user=None, via_auth=None):
         """Constructor for current class.
 
